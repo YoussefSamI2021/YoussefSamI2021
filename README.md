@@ -46,8 +46,4 @@ I work mainly with React, Next.js, Vue.js, JavaScript, TypeScript, Tailwind CSS,
 - Email: youssefsamygouda2023@gmail.com
 - LinkedIn: https://www.linkedin.com/in/youssef-samy-gouda-92ba20152/
 
----
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoussefSami2021&show_icons=true&theme=dark)
