@@ -2,11 +2,12 @@
 
 # Hi, I'm Youssef Samy 👋
 
-<a href="https://www.linkedin.com/in/youssef-samy-gouda-92ba20152/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=Frontend+Engineer+%E2%80%A2+Next.js+%E2%80%A2+React+%E2%80%A2+TypeScript;I+build+complete+systems%2C+database+to+screen;Arabic+%26+RTL-first+products" alt="Frontend Engineer · Next.js · React · TypeScript" />
+<a href="https://youssef-samy-gouda-se.vercel.app/en">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=Software+Engineer+%E2%80%A2+Full-Stack;Next.js+%E2%80%A2+React+%E2%80%A2+TypeScript+%E2%80%A2+Django;Web+%E2%80%A2+Desktop+%E2%80%A2+AI+%E2%80%A2+Servers;I+build+complete+systems%2C+database+to+screen" alt="Software Engineer · Full-Stack · Next.js · React · TypeScript · Django" />
 </a>
 
 <p>
+  <a href="https://youssef-samy-gouda-se.vercel.app/en"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/youssef-samy-gouda-92ba20152/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:youssefsamygouda2023@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Suez%2C%20Egypt-Remote%20%2F%20Hybrid-2F81F7?style=for-the-badge" alt="Suez, Egypt — open to remote and hybrid roles" />
@@ -14,7 +15,9 @@
 
 </div>
 
-I'm a **Frontend Engineer** who builds fast, scalable web applications with **Next.js, React and TypeScript**, and owns them end to end: from the architecture decision, to the code, to the tests, to what happens in production. Most of my work is **Arabic, RTL-first** education platforms used across Egypt and Algeria.
+I'm a **Software Engineer** who builds complete systems: web apps with **Next.js, React and TypeScript**, APIs with **Django REST**, desktop apps, AI-powered tools, and the servers behind them. I own the work end to end, from the architecture decision, to the code, to the tests, to what happens in production. Most of my work is **Arabic, RTL-first** education platforms used across Egypt and Algeria.
+
+🌐 **Portfolio:** [youssef-samy-gouda-se.vercel.app](https://youssef-samy-gouda-se.vercel.app/en)
 
 ---
 
@@ -33,13 +36,12 @@ I'm a **Frontend Engineer** who builds fast, scalable web applications with **Ne
 
 ### 🚀 What I do
 
-- Build modern frontend applications with Next.js (App Router), React and TypeScript
-- Turn Figma designs into responsive pages
-- Build dashboards and admin panels for data-heavy products
-- Integrate REST APIs securely (BFF route handlers, JWT in httpOnly cookies)
-- Improve performance and loading speed (virtualization, caching, request cancellation)
-- Refactor frontend code into clean, reusable components (SOLID, feature-based structure)
-- Build Arabic and RTL-first interfaces that feel native, not mirrored
+- **Full-stack web apps:** Next.js (App Router) and React on the front, Django REST, PostgreSQL, Redis and Celery on the back
+- **Frontend:** Figma to responsive pages, dashboards and admin panels for data-heavy products, Arabic and RTL-first interfaces
+- **APIs and security:** REST APIs, JWT in httpOnly cookies, BFF route handlers, real-time updates over WebSockets
+- **Desktop and AI:** Windows apps with Tauri, exam grading with trained YOLO models running on ONNX
+- **Servers:** Docker, nginx, deployment to Cloudflare Workers and on-premise servers, monitoring and security alerts
+- **Quality:** tests with Jest, Playwright and pytest, clean architecture (SOLID), decisions documented as ADRs
 
 ---
 
@@ -105,9 +107,10 @@ Decide & document  →  Build  →  Test  →  Deploy & monitor
 
 ### 📫 Contact
 
+- **Portfolio:** [youssef-samy-gouda-se.vercel.app](https://youssef-samy-gouda-se.vercel.app/en)
 - **Email:** youssefsamygouda2023@gmail.com
 - **LinkedIn:** [youssef-samy-gouda](https://www.linkedin.com/in/youssef-samy-gouda-92ba20152/)
-- Open to **remote and hybrid** Frontend / Full-Stack roles.
+- Open to **remote and hybrid** Software Engineer, Full-Stack and Frontend roles.
 
 <!--
   Optional GitHub stats. Replace YOUR_USERNAME with your GitHub username to turn them on.
